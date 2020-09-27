@@ -1,0 +1,50 @@
+{"slider":[
+	{
+		"image": "image1.jpg",
+		"text": {
+			"h1": "It Step",
+			"p": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+		},
+		"url": "http://itstep.az"
+	},
+	{
+		"image": "image2.jpg",
+		"text": {
+			"h1": "Facebook",
+			"p": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum"
+		},
+		"url": "http://facebok.com"
+	},
+	{
+		"image": "image3.jpg",
+		"text": {
+			"h1": "Youtube",
+			"p": "Contrary to popular belief, Lorem Ipsum is not simply random text."
+		},
+		"url": "https://youtube.com"
+	},
+	{
+		"image": "image4.jpg",
+		"text": {
+			"h1": "President",
+			"p": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur"
+		},
+		"url": "http://president.az"
+	},
+	{
+		"image": "image5.jpg",
+		"text": {
+			"h1": "Bootstrap",
+			"p": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested."
+		},
+		"url": "https://getbootstrap.com/"
+	},
+	{
+		"image": "image6.jpg",
+		"text": {
+			"h1": "W3schools",
+			"p": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour"
+		},
+		"url": "https://www.w3schools.com/"
+	}
+]}
